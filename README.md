@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
 <h3 align="center">A passionate Devops Engineer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andrerevoredo&label=Visits&color=0e75b6&style=flat" alt="andrerevoredo" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/andrerevoredo](https://github.com/andrerevoredo)
 
